@@ -1,2 +1,2 @@
 # CNN-projects
-Consists of projects related Segmntation, Classification, Face recognition, Style Transfer
+Consists of projects related Segmentation, Classification, Face recognition, Style Transfer
